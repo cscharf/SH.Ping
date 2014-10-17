@@ -1,0 +1,13 @@
+Name: Ping
+AntiForgery: enabled
+Author: Chad Scharf
+Website: https://github.com/ScharfHoldings/SH.Ping
+Version: 1.0.0
+OrchardVersion: 1.8.0
+Description: Creates an XML-RPC Workflow Activity for use when items are created/published that behaves similar to other popular blog and CMS platforms along with the ability to configure custom URLs and some suggested defaults. Please fork, contribute or report bugs on GitHub at [https://github.com/ScharfHoldings/SH.Ping].
+Features:
+    SH.Ping:
+        Name: Ping
+        Description: Creates an XML-RPC Workflow Activity for use when items are created/published that behaves similar to other popular blog and CMS platforms along with the ability to configure custom URLs and some suggested defaults.
+        Category: SEO
+        Dependencies: Orchard.Workflows
